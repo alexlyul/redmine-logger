@@ -1,0 +1,14 @@
+{
+  "name": "redminetimelogger",
+  "version": "1.0.0",
+  "description": "Bulk time log for redmine. Set only from and to dates and comments",
+  "main": "index.js",
+  "scripts": {
+    "log": "testcafe chrome ./index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "testcafe": "^1.5.0"
+  }
+}
